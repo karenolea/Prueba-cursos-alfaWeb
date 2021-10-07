@@ -1,0 +1,68 @@
+[
+    {
+        "Codigo": "C00101",
+        "Nombre": "HTML Básico",
+        "Estado": "true",
+        "Costo": "10000",
+        "Duracion": "1 mes",
+        "Descripcion": "Curso básico de HTML para principiantes",
+        "Cupos": "35",
+        "Inscritos": "0",
+        "Imagen": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png"
+    },
+    {
+        "Codigo": "C00102",
+        "Nombre": " CSS para principiantes",
+        "Estado": "false",
+        "Costo": "10000",
+        "Duracion": "1 mes",
+        "Descripcion": "Aprendiendo estilos con CSS desde el nivel más básico.",
+        "Cupos": "35",
+        "Inscritos": "23",
+        "Imagen": "https://lineadecodigo.com/wp-content/uploads/2014/04/css.png"
+    },
+    {
+        "Codigo": "C00201",
+        "Nombre": "JavaScript básico de 0 a 100",
+        "Estado": "true",
+        "Costo": "20000",
+        "Duracion": "2 meses",
+        "Descripcion": "Programando para la web con JavaScript",
+        "Cupos": "25",
+        "Inscritos": "0",
+        "Imagen": "https://cuos.com.ar/img/tecnologias/js.png"
+    },
+    {
+        "Codigo": "C00202",
+        "Nombre": "JavaScript Avanzado",
+        "Estado": "false",
+        "Costo": "30000",
+        "Duracion": "2 meses",
+        "Descripcion": "Curso con las nuevas actualizaciones de JavaScript.",
+        "Cupos": "20",
+        "Inscritos": "10",
+        "Imagen": "https://i.blogs.es/545cf8/es6-logo/450_1000.png"
+    },
+    {
+        "Codigo": "C00301",
+        "Nombre": "VueJS de 0 a 100",
+        "Estado": "false",
+        "Costo": "85500",
+        "Duracion": "5 meses",
+        "Descripcion": "Framework Vue.js desde principiante a avanzado.",
+        "Cupos": "35",
+        "Inscritos": "35",
+        "Imagen": "https://thumbs.gfycat.com/PinkPiercingBull-size_restricted.gif"
+    },
+    {
+        "Codigo": "C00302",
+        "Nombre": "Estilos con SASS",
+        "Estado": "false",
+        "Costo": "45000",
+        "Duracion": "1 mes",
+        "Descripcion": "Mejorando los estilos con mayor potencia mediante SASS",
+        "Cupos": "40",
+        "Inscritos": "35",
+        "Imagen": "https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"
+    }
+]
